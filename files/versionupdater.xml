@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <StationeersAddons>
   <Updater>
-    <Version>1.1.1.1</Version>
+    <Version>1.1.1.2</Version>
     <Delete>
       <Dir>
         <Item>updater</Item>
