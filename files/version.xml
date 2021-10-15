@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <StationeersAddons>
-    <Main>
-        <Version>1.1.1.2</Version>
-        <Delete>
-			<Dir>
-				<Item>../AddonManager</Item>
-			</Dir>
-			<File>
-				<Item>../version.dll</Item>
-			</File>
-		</Delete>
-    </Main>
+	<Version>1.1.1.2</Version>
+	<Delete>
+		<Dir>
+			<Item>../AddonManager</Item>
+		</Dir>
+		<File>
+			<Item>../version.dll</Item>
+		</File>
+	</Delete>
 </StationeersAddons>
